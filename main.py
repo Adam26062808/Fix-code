@@ -572,4 +572,4 @@ class MainApp(App):
 
 MainApp().run()
 
-#ezzzz
+# ez

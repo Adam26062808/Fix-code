@@ -151,3 +151,6 @@ if __name__ == '__main__':
 
     root.effect_y = RouletteScrollEffect(anchor=20, interval=40)
     runTouchApp(root)
+
+
+    #ez

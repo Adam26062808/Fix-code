@@ -61,3 +61,6 @@ class FriendBanner(FloatLayout):
     def update_remove_label_rect(self, *args):
         self.rect2.pos = self.remove_label.pos
         self.rect2.size = self.remove_label.size
+
+
+    #I am Mrbeast
